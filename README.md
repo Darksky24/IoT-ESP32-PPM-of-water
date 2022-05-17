@@ -6,7 +6,7 @@ then display the information on an android app
 ## Acknowledgements
 
  - [Sample Demonstration](https://www.youtube.com/watch?v=b-bDwB62Qgw)
-
+ - [App Download](https://drive.google.com/drive/folders/16ugHXKBX1OIT0R4Ej59K25MIkq4q6-T_?usp=sharing)
 
 ## Authors
 
